@@ -1,0 +1,17 @@
+# Micromamba environment file
+# https://marketplace.visualstudio.com/items?itemName=corker.vscode-micromamba
+
+name: cosapptuto
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python
+  - cosapp
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - plotly
+  - jupyter
